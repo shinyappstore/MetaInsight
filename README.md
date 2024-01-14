@@ -1,12 +1,9 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7852691.svg)](https://doi.org/10.5281/zenodo.7852691)
+![](https://shiny-app-store3.s3.amazonaws.com/approvedapp/s143_BRRvwwIJwL3rcMn5Am7FUZR5E4i6cCmK1tYXsx93_logo_58.jpg)
 
-# MetaInsight v5.1.2
-Network meta-analysis (NMA) has been increasingly adopted in evidence-based medicine to compare multiple interventions and address the questions such as ‘which intervention is the ‘best’ overall?’. Currently, NMA is primarily conducted in statistical packages such as WinBUGs, R and STATA, and the software coding can be difficult for non- statisticians and hinders the progress of carrying out systematic reviews containing NMA.
 
-MetaInsight is a tool that conducts NMA via the web requiring no specialist software for the user to install but leveraging established analysis routines (specifically the netmeta and gemtc package in R). The tool is interactive and uses an intuitive ‘point and click’ interface and presents results in visually intuitive and appealing ways. It is hoped that this tool will assist those in conducting NMA who do not have expert statistical programming skills, and, in turn, increase the relevance of published meta-analyses, and in the long term contribute to improved healthcare decision making as a result.
 
-If you use the app please cite it as:
+# MetaInsight: Interactive Network Meta-Analysis and Visualize Tool
 
-Owen, RK, Bradbury, N, Xin, Y, Cooper, N, Sutton, A. MetaInsight: An interactive web-based tool for analyzing, interrogating, and visualizing network meta-analyses using R-shiny and netmeta. Res Syn Meth. 2019; 10: 569-581.
+#### Use app online: __[www.shinyappstore.com/a/MetaInsight](https://shinyappstore.com/a/MetaInsight)__
 
-Please consult our [Wiki](https://github.com/CRSU-Apps/MetaInsight/wiki) for further information on using MetaInsight.
+MetaInsight is a user-friendly application designed for conducting Network Meta-Analysis (NMA) without the need for specialized software installation. Leveraging established analysis routines, specifically the netmeta and gemtc R packages, MetaInsight provides an interactive and intuitive 'point and click' interface. The application presents NMA results in visually appealing ways, aiming to assist users without expert statistical programming skills. This accessibility is expected to broaden the scope of researchers conducting NMA, enhance the relevance of published meta-analyses, and ultimately contribute to improved decision-making in healthcare. NMA is a method for identifying optimal treatments for various conditions and is widely utilized by healthcare decision-makers. Existing software for NMA often requires advanced statistical programming skills, limiting its accessibility to a broader audience. Published: Rhiannon K. Owen et al Res Synth Methods. 2019 Dec; 10(4): 569–581.
